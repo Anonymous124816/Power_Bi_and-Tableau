@@ -18,4 +18,4 @@ Before loading the dataset into Tableau and Power BI, some preprocessing steps w
 - Customize the preprocessing script according to the specific requirements of your dataset and analysis.
 
 
-## And any or all insights insights are welcomed !!!!!!!!!!!!!!!!
+## And any insights are welcomed !!!!!!!!!!!!!!!!
